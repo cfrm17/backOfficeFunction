@@ -42,7 +42,10 @@ If you click the Load button, a selection window pops up. Expand BackOffice -> F
 
 All the fixings of the trade are displayed in the main window. You can modify fields and click the Save button to save all changes.
 
-You can find more detailsat 
-https://finpricing.com/knowledge.html
+
+References:
+
+https://finpricing.com/lib/EqVariance.html
+
 
 
